@@ -6,6 +6,7 @@ In this repository, I will upload all projects that I do. For the Hugging Face D
 create a conda environment `we use python ver 3.11.11 because it is the same as colab's`
 ```bash
 conda create -n huggingfacedeeprl python=3.11.11 -y
+conda activate huggingfacedeeprl
 ```
 
 ## Unit 1
